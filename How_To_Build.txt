@@ -1,0 +1,20 @@
+콘솔 창 숨기기 (GUI 애플리케이션용):
+GUI 애플리케이션의 경우, 프로그램 실행 시 검은색 콘솔 창이 뜨는 것을 원치 않을 수 있습니다. 이때 --noconsole 또는 -w 옵션을 사용합니다.
+
+Bash
+
+pyinstaller --onefile --noconsole your_script_name.py
+아이콘 변경:
+.exe 파일의 아이콘을 변경하려면 --icon 옵션을 사용하고 .ico 형식의 아이콘 파일 경로를 지정합니다.
+
+Bash
+
+pyinstaller --onefile --noconsole --icon=my_icon.ico your_script_name.py
+my_icon.ico: 사용할 아이콘 파일의 경로와 이름입니다.
+외부 라이브러리/파일 포함:
+PyInstaller는 대부분의 라이브러리를 자동으로 포함하지만, 특정 라이브러리나 데이터 파일(예: 이미지, 텍스트 파일 등)이 제대로 포함되지 않을 경우 --add-data 옵션을 사용하여 수동으로 추가할 수 있습니다.
+
+Bash
+
+pyinstaller --onefile --add-data "data.txt;." your_script_name.py
+"data.txt;.": data.txt 파일을 .exe가 생성될 디렉토리(루트)에 포함하라는 의미입니다. ; 앞은 원본 파일 경로, ; 뒤는 빌드된 .exe 내부에서의 상대 경로입니다.
