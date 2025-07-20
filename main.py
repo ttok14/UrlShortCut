@@ -27,7 +27,7 @@ except ImportError:
     print("CRITICAL ERROR: 'keyboard' library not found. Please install it using 'pip install keyboard'")
     sys.exit(1)
 
-APP_NAME = "ShortCutGroup_(아이두디쓰뽀아이아)"
+APP_NAME = "ShortCutGroup"
 
 _appdata_dir = os.getenv('APPDATA') or os.path.expanduser("~")
 APP_DATA_BASE_DIR = os.path.join(_appdata_dir, APP_NAME)
