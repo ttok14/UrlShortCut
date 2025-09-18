@@ -1,0 +1,785 @@
+{
+    "categories_order": [
+        "General",
+        "Youtube",
+        "AI",
+        "Util",
+        "Economy",
+        "Mine",
+        "PySide6",
+        "Education",
+        "Temp"
+    ],
+    "shortcuts": [
+        {
+            "id": "ad60f635-5d7b-4d40-b7ed-96a537372ebe",
+            "type": "shortcut",
+            "name": "Youtube",
+            "url": "http://www.youtube.com",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.youtube.com.png",
+            "parentId": "2a81dc57-609b-4c3c-a764-9f9a73131531",
+            "priority": 1.0,
+            "category": "Youtube"
+        },
+        {
+            "id": "5039fc1e-c6bc-4546-88d1-c82603038521",
+            "type": "shortcut",
+            "name": "Google",
+            "url": "http://www.google.com",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.google.com.png",
+            "parentId": "2a81dc57-609b-4c3c-a764-9f9a73131531",
+            "priority": 2.0,
+            "category": "General"
+        },
+        {
+            "id": "796a37c9-2928-46e4-a3a6-31c11f2a3078",
+            "type": "shortcut",
+            "name": "PySide6-QMLBasic",
+            "url": "https://doc.qt.io/qtforpython-6/examples/example_qml_tutorials_extending-qml_chapter1-basics.html#example-qml-tutorials-extending-qml-chapter1-basics",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\doc.qt.io.png",
+            "parentId": "4eb0facc-a725-4f55-acd9-dcd7a68e5377",
+            "priority": 4.0,
+            "category": "PySide6"
+        },
+        {
+            "id": "93fae520-69d9-4b39-903d-abbfd61350e4",
+            "type": "shortcut",
+            "name": "Judal-버핏2",
+            "url": "https://www.judal.co.kr/?view=intro&page=2",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.judal.co.kr.png",
+            "parentId": "64d8e851-7ef6-41aa-8f49-974fcb5ce72f",
+            "priority": 5.0,
+            "category": "Economy"
+        },
+        {
+            "id": "26385a25-232d-4f06-ab19-925dd0053df6",
+            "type": "shortcut",
+            "name": "Judal-버핏",
+            "url": "https://www.judal.co.kr/?view=intro",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.judal.co.kr.png",
+            "parentId": "64d8e851-7ef6-41aa-8f49-974fcb5ce72f",
+            "priority": 6.0,
+            "category": "Economy"
+        },
+        {
+            "id": "7a0163a4-4344-4a62-9b71-c51bd938b9e1",
+            "type": "shortcut",
+            "name": "이근-inspire",
+            "url": "https://youtu.be/D4gx9dfEDI4",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\youtu.be.png",
+            "parentId": "e68033ed-1a25-4bc0-9fc1-3c282dc3933e",
+            "priority": 7.0,
+            "category": "Youtube"
+        },
+        {
+            "id": "d9346b79-1f71-4372-abc4-0caa379f5623",
+            "type": "shortcut",
+            "name": "이근-inspire02",
+            "url": "https://youtu.be/KtJdHwjWo3Y",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\youtu.be.png",
+            "parentId": "e68033ed-1a25-4bc0-9fc1-3c282dc3933e",
+            "priority": 8.0,
+            "category": "Youtube"
+        },
+        {
+            "id": "ce187aa5-f224-42f9-9d17-7520c924a73c",
+            "type": "shortcut",
+            "name": "ChatGPT",
+            "url": "https://chatgpt.com/?hints=search",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\chatgpt.com.png",
+            "parentId": "3dbfedd3-03c7-473a-b978-e5a383e66bdc",
+            "priority": 9.0,
+            "category": "AI"
+        },
+        {
+            "id": "f7f52526-3b1e-49c4-b5cf-290c2c4cc1f6",
+            "type": "shortcut",
+            "name": "Perplexity",
+            "url": "https://www.perplexity.ai/",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.perplexity.ai.png",
+            "parentId": "3dbfedd3-03c7-473a-b978-e5a383e66bdc",
+            "priority": 10.0,
+            "category": "AI"
+        },
+        {
+            "id": "047d1d31-0208-4b6a-9660-a09875aad840",
+            "type": "shortcut",
+            "name": "Gemini",
+            "url": "https://gemini.google.com/",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\gemini.google.com.png",
+            "parentId": "3dbfedd3-03c7-473a-b978-e5a383e66bdc",
+            "priority": 11.0,
+            "category": "AI"
+        },
+        {
+            "id": "38c01989-28d6-4214-a4c6-38b8f3ba9624",
+            "type": "shortcut",
+            "name": "GoogleAIStudio",
+            "url": "https://aistudio.google.com/",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\aistudio.google.com.png",
+            "parentId": "3dbfedd3-03c7-473a-b978-e5a383e66bdc",
+            "priority": 12.0,
+            "category": "AI"
+        },
+        {
+            "id": "307bfa3c-fbd0-4e00-b7ad-e56b4b7a2290",
+            "type": "shortcut",
+            "name": "HailuoAI",
+            "url": "https://hailuoai.video/",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\hailuoai.video.png",
+            "parentId": "3dbfedd3-03c7-473a-b978-e5a383e66bdc",
+            "priority": 13.0,
+            "category": "AI"
+        },
+        {
+            "id": "907cb6ed-9217-47ef-a5d1-e1cfe30a0a59",
+            "type": "shortcut",
+            "name": "LiysAI",
+            "url": "https://lilys.ai/",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\lilys.ai.png",
+            "parentId": "3dbfedd3-03c7-473a-b978-e5a383e66bdc",
+            "priority": 14.0,
+            "category": "AI"
+        },
+        {
+            "id": "40f5137a-0781-42d3-b04b-5f082a39a28f",
+            "type": "shortcut",
+            "name": "Calude",
+            "url": "https://claude.ai/chat",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\claude.ai.png",
+            "parentId": "3dbfedd3-03c7-473a-b978-e5a383e66bdc",
+            "priority": 15.0,
+            "category": "AI"
+        },
+        {
+            "id": "410523d1-299a-4923-aa35-13144d6b7c70",
+            "type": "shortcut",
+            "name": "Grok",
+            "url": "https://grok.com/?referrer=website",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\grok.com.png",
+            "parentId": "3dbfedd3-03c7-473a-b978-e5a383e66bdc",
+            "priority": 16.0,
+            "category": "AI"
+        },
+        {
+            "id": "e0c91582-b48a-4396-9ab7-4484084c87ce",
+            "type": "shortcut",
+            "name": "Naver",
+            "url": "http://www.naver.com",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.naver.com.ico",
+            "parentId": "2a81dc57-609b-4c3c-a764-9f9a73131531",
+            "priority": 18.0,
+            "category": "General"
+        },
+        {
+            "id": "e7b139dc-0590-4976-943e-0bc4c765f2e2",
+            "type": "shortcut",
+            "name": "Notion",
+            "url": "https://www.notion.so/",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.notion.so.png",
+            "parentId": "2a81dc57-609b-4c3c-a764-9f9a73131531",
+            "priority": 19.0,
+            "category": "General"
+        },
+        {
+            "id": "54ca1f38-63ec-41dc-88b6-294702d69651",
+            "type": "shortcut",
+            "name": "Udemy",
+            "url": "https://www.udemy.com/",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.udemy.com.png",
+            "parentId": "31db88af-c866-4d7c-8417-86026c5147b5",
+            "priority": 20.0,
+            "category": "Education"
+        },
+        {
+            "id": "ec738f0c-d482-4b5a-8208-7d9c2fc0a942",
+            "type": "shortcut",
+            "name": "jupyter",
+            "url": "https://www.youtube.com/watch?v=suAkMeWJ1yE",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.youtube.com.png",
+            "parentId": "e68033ed-1a25-4bc0-9fc1-3c282dc3933e",
+            "priority": 21.0,
+            "category": "Youtube"
+        },
+        {
+            "id": "f7b29dc6-2312-4ff5-91af-28c8bd0ba552",
+            "type": "shortcut",
+            "name": "Vibe Coding (Cafe)",
+            "url": "https://youtu.be/0x76euaGbqY",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\youtu.be.png",
+            "parentId": "e68033ed-1a25-4bc0-9fc1-3c282dc3933e",
+            "priority": 22.0,
+            "category": "Youtube"
+        },
+        {
+            "id": "6dc2cb55-e7ca-48ea-8362-1743b9d118fe",
+            "type": "shortcut",
+            "name": "NotebookLM",
+            "url": "https://notebooklm.google.com/",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\notebooklm.google.com.png",
+            "parentId": "3dbfedd3-03c7-473a-b978-e5a383e66bdc",
+            "priority": 23.0,
+            "category": "AI"
+        },
+        {
+            "id": "331a1d5a-7a89-42ef-a473-59f5197b97eb",
+            "type": "shortcut",
+            "name": "Grok",
+            "url": "https://grok.com/?referrer=website",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\grok.com.png",
+            "parentId": "3dbfedd3-03c7-473a-b978-e5a383e66bdc",
+            "priority": 24.0,
+            "category": "AI"
+        },
+        {
+            "id": "b7df24e5-06e4-405d-8d5d-99dfe012e84e",
+            "type": "shortcut",
+            "name": "Wrtn",
+            "url": "https://wrtn.ai/",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\wrtn.ai.png",
+            "parentId": "3dbfedd3-03c7-473a-b978-e5a383e66bdc",
+            "priority": 25.0,
+            "category": "AI"
+        },
+        {
+            "id": "cffee270-351d-4193-b67f-52d8a48f7e8a",
+            "type": "shortcut",
+            "name": "NotebookLM (실전경험)",
+            "url": "https://youtu.be/BAcV-5QnFbE",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\youtu.be.png",
+            "parentId": "e68033ed-1a25-4bc0-9fc1-3c282dc3933e",
+            "priority": 26.0,
+            "category": "Youtube"
+        },
+        {
+            "id": "e62e7f20-bee4-4a9f-bdd1-41f0ddb580ef",
+            "type": "shortcut",
+            "name": "Canva",
+            "url": "https://www.canva.com/ko_kr/",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.canva.com.png",
+            "parentId": "2a81dc57-609b-4c3c-a764-9f9a73131531",
+            "priority": 27.0,
+            "category": "Util"
+        },
+        {
+            "id": "08fe7a9f-e3de-403c-85da-c9e96417b07e",
+            "type": "shortcut",
+            "name": "Google Spreadsheet",
+            "url": "https://docs.google.com/spreadsheets/",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\docs.google.com.png",
+            "parentId": "2a81dc57-609b-4c3c-a764-9f9a73131531",
+            "priority": 28.0,
+            "category": "General"
+        },
+        {
+            "id": "f3022ac4-099e-485a-95da-ae43fb13b85c",
+            "type": "shortcut",
+            "name": "Expense",
+            "url": "https://docs.google.com/spreadsheets/d/1WtZTJx6P2W4R3v1tguGd69TSn-kr_RYtUOT_TzIjchQ/edit?usp=sharing",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\docs.google.com.png",
+            "parentId": "6b9ba4f3-4942-4357-bee0-48c077ab32a1",
+            "priority": 29.0,
+            "category": "Mine"
+        },
+        {
+            "id": "e53bfda7-59f5-4394-9435-a1aa176a8853",
+            "type": "shortcut",
+            "name": "IPO_공모일정",
+            "url": "https://kind.krx.co.kr/listinvstg/pubofrschdl.do?method=searchPubofrScholMain",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\kind.krx.co.kr.png",
+            "parentId": "64d8e851-7ef6-41aa-8f49-974fcb5ce72f",
+            "priority": 30.0,
+            "category": "Economy"
+        },
+        {
+            "id": "203eb8ed-1cb1-4ff3-8d51-16b0de62573a",
+            "type": "shortcut",
+            "name": "KeywordPlanner",
+            "url": "https://ads.google.com/aw/keywordplanner/home",
+            "hotkey": "",
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\ads.google.com.png",
+            "parentId": "2a81dc57-609b-4c3c-a764-9f9a73131531",
+            "priority": 31.0,
+            "category": "General"
+        },
+        {
+            "name": "네이버_증권",
+            "url": "https://finance.naver.com/sise/",
+            "hotkey": "",
+            "category": "Economy",
+            "id": "1df4fb18-e7af-4034-b659-9e688b0ed27e",
+            "priority": 32.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\finance.naver.com.ico"
+        },
+        {
+            "name": "에프엔가이드",
+            "url": "https://www.fnguide.com/",
+            "hotkey": "",
+            "category": "Economy",
+            "id": "1e7a0ca4-2fb3-44a7-8c3c-77371a5e025a",
+            "priority": 33.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.fnguide.com.png"
+        },
+        {
+            "name": "DART",
+            "url": "https://dart.fss.or.kr/",
+            "hotkey": "",
+            "category": "Economy",
+            "id": "8eec40a5-4ee8-4f27-92a3-e04f7b81e806",
+            "priority": 34.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\dart.fss.or.kr.png"
+        },
+        {
+            "name": "Capcut_Lesson",
+            "url": "https://www.youtube.com/watch?v=qfHX2cNA4MY",
+            "hotkey": "",
+            "category": "Youtube",
+            "id": "dfbb7354-2a38-4035-ab10-531a8abdd083",
+            "priority": 35.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.youtube.com.png"
+        },
+        {
+            "name": "SpeechToText",
+            "url": "https://speechnotes.co/dictate/",
+            "hotkey": "",
+            "category": "Util",
+            "id": "34944d78-ee4b-4396-bddf-699cf6d83db1",
+            "priority": 36.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\speechnotes.co.png"
+        },
+        {
+            "name": "SpeechToText",
+            "url": "https://dictation.io/speech",
+            "hotkey": "",
+            "category": "Util",
+            "id": "004606c9-920a-443a-b5c5-fe80102837d7",
+            "priority": 37.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\dictation.io.png"
+        },
+        {
+            "name": "이근--",
+            "url": "https://youtu.be/-Gr0ORqsQYk",
+            "hotkey": "",
+            "category": "Youtube",
+            "id": "314f3626-31dc-4bf1-b47a-bac8909aefc5",
+            "priority": 38.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\youtu.be.png"
+        },
+        {
+            "name": "신규주 리스트",
+            "url": "https://www.kokstock.com/stock/ipo_listing.asp",
+            "hotkey": "",
+            "category": "Economy",
+            "id": "f33ce5e2-69ef-4f4f-a967-13240c1489bf",
+            "priority": 39.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.kokstock.com.png"
+        },
+        {
+            "name": "38커뮤",
+            "url": "https://www.38.co.kr/html/news/allnews.php3?",
+            "hotkey": "",
+            "category": "Economy",
+            "id": "59af2a3a-f3c5-490f-b2c9-4f8dab04bd6e",
+            "priority": 40.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.38.co.kr.ico"
+        },
+        {
+            "name": "공모주 청약",
+            "url": "https://www.38.co.kr/html/fund/index.htm?o=k",
+            "hotkey": "",
+            "category": "Economy",
+            "id": "b875e86f-3dc2-4df9-b085-56133bba73d7",
+            "priority": 41.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.38.co.kr.ico"
+        },
+        {
+            "name": "신규 상장",
+            "url": "https://www.38.co.kr/html/fund/index.htm?o=nw",
+            "hotkey": "",
+            "category": "Economy",
+            "id": "61153b90-7a65-485f-98c4-56096ede399c",
+            "priority": 42.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.38.co.kr.ico"
+        },
+        {
+            "name": "창원개미-실전매매 (25-05-29)",
+            "url": "https://www.youtube.com/watch?v=3SgU0rfs4jA",
+            "hotkey": "",
+            "category": "Youtube",
+            "id": "c24e49df-60ac-40e3-843b-b93914194f31",
+            "priority": 43.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.youtube.com.png"
+        },
+        {
+            "name": "창원개미-눌림목 실전매매 (2022)",
+            "url": "https://www.youtube.com/watch?v=VwVCvYUkXvo",
+            "hotkey": "",
+            "category": "Youtube",
+            "id": "9d75cda7-214c-41e4-8017-ff9ea73f2a2b",
+            "priority": 44.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.youtube.com.png"
+        },
+        {
+            "name": "창원개미-실전매매 단타 (2023)",
+            "url": "https://youtu.be/WkTK5hVdUwA",
+            "hotkey": "",
+            "category": "Youtube",
+            "id": "0e061e2a-f879-47ca-8f69-b47fc6461346",
+            "priority": 45.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\youtu.be.png"
+        },
+        {
+            "name": "창원개미 - 종목선정",
+            "url": "https://youtu.be/pxxULAsT7zE",
+            "hotkey": "",
+            "category": "Youtube",
+            "id": "64fd1b95-3a34-4e82-afe5-b2bf60853c97",
+            "priority": 46.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\youtu.be.png"
+        },
+        {
+            "name": "만쥬",
+            "url": "https://youtu.be/AF37XxPtoz4",
+            "hotkey": "",
+            "category": "Youtube",
+            "id": "b2df85bc-d7c6-40ad-8358-217fcbe744e1",
+            "priority": 47.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\youtu.be.png"
+        },
+        {
+            "name": "불개미",
+            "url": "https://youtu.be/7Vt5huVoQO8",
+            "hotkey": "",
+            "category": "Youtube",
+            "id": "c4336473-bb2f-4a57-890a-5c5263b82272",
+            "priority": 48.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\youtu.be.png"
+        },
+        {
+            "name": "Deepseek",
+            "url": "https://chat.deepseek.com/",
+            "hotkey": "",
+            "category": "AI",
+            "id": "8329a501-d3cd-4499-8452-76bf441eee11",
+            "priority": 49.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\chat.deepseek.com.png"
+        },
+        {
+            "name": "에프엔가이드-실적",
+            "url": "https://comp.fnguide.com/svo2/asp/SVD_comp_calendar.asp?pGB=1&gicode=A005930&gcd=&gnm=&curdt=&ctp=&cID=&MenuYn=Y&ReportGB=&NewMenuID=701&stkGb=701",
+            "hotkey": "",
+            "category": "Economy",
+            "id": "e5a3003c-17e6-41e0-be5b-ab55aa644d34",
+            "priority": 50.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\comp.fnguide.com.ico"
+        },
+        {
+            "name": "만쥬 - 신청자 피드백",
+            "url": "https://youtu.be/iuaTuSfQZ3M",
+            "hotkey": "",
+            "category": "Youtube",
+            "id": "700c621e-c640-47f6-817b-61105071067a",
+            "priority": 51.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\youtu.be.png"
+        },
+        {
+            "name": "만쥬 - 단타 , 가르침 GOOD",
+            "url": "https://youtu.be/Xe5wfMSbbJI",
+            "hotkey": "",
+            "category": "Youtube",
+            "id": "fc9db7c8-e270-4176-8bbf-fca589b90de6",
+            "priority": 52.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\youtu.be.png"
+        },
+        {
+            "name": "만쥬(그룹강의)",
+            "url": "https://www.youtube.com/watch?v=DGMD6hLu0cM",
+            "hotkey": "",
+            "category": "Youtube",
+            "id": "374897df-a33c-4ff5-9be8-e706f4aa4186",
+            "priority": 53.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.youtube.com.png"
+        },
+        {
+            "name": "미국 선물지수",
+            "url": "https://kr.investing.com/indices/indices-futures",
+            "hotkey": "",
+            "category": "Economy",
+            "id": "970221af-0218-4cf1-aec5-4d7b4b65c8d0",
+            "priority": 54.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\kr.investing.com.png"
+        },
+        {
+            "name": "유가 지수",
+            "url": "https://kr.investing.com/commodities/crude-oil",
+            "hotkey": "",
+            "category": "Economy",
+            "id": "3aaac915-102e-4985-91c7-02ff988d6812",
+            "priority": 55.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\kr.investing.com.png"
+        },
+        {
+            "name": "만쥬 - 복기",
+            "url": "https://www.youtube.com/watch?v=mIVq7d8HasM",
+            "hotkey": "",
+            "category": "Youtube",
+            "id": "f3ce97ed-1d71-4e3c-add7-a4fede25e705",
+            "priority": 56.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.youtube.com.png"
+        },
+        {
+            "name": "만쥬-수급단타왕 (만쥬손실)",
+            "url": "https://www.youtube.com/watch?v=BLW6WuiaXSU",
+            "hotkey": "",
+            "category": "Youtube",
+            "id": "776e1de4-fd9a-45ea-bbf6-6a88a8a5a5a2",
+            "priority": 57.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.youtube.com.png"
+        },
+        {
+            "name": "Notion-Alter1",
+            "url": "https://www.taskade.com/",
+            "hotkey": "",
+            "category": "Temp",
+            "id": "6bfd42ff-68ad-4643-8dd1-9187ebe5a28e",
+            "priority": 58.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.taskade.com.png"
+        },
+        {
+            "name": "Notion_Alter2",
+            "url": "https://coda.io/",
+            "hotkey": "",
+            "category": "Temp",
+            "id": "19eb1eaf-819b-4d55-b827-fdd02d20d0b8",
+            "priority": 59.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\coda.io.png"
+        },
+        {
+            "name": "Notion-Alter3",
+            "url": "https://www.microsoft.com/en-us/microsoft-loop",
+            "hotkey": "",
+            "category": "Temp",
+            "id": "ae1f05bb-b96a-4b9f-bc1e-7ac38346d42d",
+            "priority": 60.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.microsoft.com.png"
+        },
+        {
+            "name": "Notion-Alter4",
+            "url": "https://www.craft.do/",
+            "hotkey": "",
+            "category": "Temp",
+            "id": "89d0ef0e-2b1a-431a-8415-870c408c3f14",
+            "priority": 61.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.craft.do.png"
+        },
+        {
+            "name": "Notion-Alter5",
+            "url": "https://www.airtable.com/",
+            "hotkey": "",
+            "category": "Temp",
+            "id": "7d9c50fb-fdd0-4f16-9fe8-7a28d282e75e",
+            "priority": 62.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.airtable.com.png"
+        },
+        {
+            "name": "박두환 01 - 주목 기업",
+            "url": "https://www.youtube.com/watch?v=mRdplPq6k8U",
+            "hotkey": "",
+            "category": "Youtube",
+            "id": "ded2a155-1cab-497b-b89c-7d1e6c40283e",
+            "priority": 63.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.youtube.com.png"
+        },
+        {
+            "name": "미리캔버스",
+            "url": "https://www.miricanvas.com/miricle/ko/ai-presentation-maker?utm_source=youtube&utm_medium=contents&utm_campaign=karen&utm_content=aippt",
+            "hotkey": "",
+            "category": "Util",
+            "id": "8f5e4daa-c317-4134-9aa7-dfec6f42eef2",
+            "priority": 64.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.miricanvas.com.png"
+        },
+        {
+            "name": "AI-Presentation",
+            "url": "https://www.presentations.ai/ko",
+            "hotkey": "",
+            "category": "Util",
+            "id": "eaedc7b0-594c-400d-b5df-28bee1f3c4e2",
+            "priority": 65.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.presentations.ai.png"
+        },
+        {
+            "name": "젠스파이크",
+            "url": "https://www.genspark.ai/",
+            "hotkey": "",
+            "category": "Util",
+            "id": "421640b3-9b75-4077-a729-ccc6fd669e7e",
+            "priority": 66.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.genspark.ai.png"
+        },
+        {
+            "name": "GammaAI",
+            "url": "https://gamma.app/ko",
+            "hotkey": "",
+            "category": "Util",
+            "id": "04831047-e815-4a0e-9345-a29557483c8d",
+            "priority": 67.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\gamma.app.png"
+        },
+        {
+            "name": "GoogleCloudConsole",
+            "url": "https://console.cloud.google.com/",
+            "hotkey": "",
+            "category": "General",
+            "id": "4cd7057b-6c9a-4c83-92c8-e8c1990c2fea",
+            "priority": 68.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\console.cloud.google.com.png"
+        },
+        {
+            "name": "VertexAI",
+            "url": "https://console.cloud.google.com/vertex-ai/studio",
+            "hotkey": "",
+            "category": "AI",
+            "id": "17498d2f-b870-4c07-89c7-2d16bb521690",
+            "priority": 69.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\console.cloud.google.com.png"
+        },
+        {
+            "name": "BlackboxAI",
+            "url": "https://www.blackbox.ai/",
+            "hotkey": "",
+            "category": "AI",
+            "id": "eb3fe33b-f60b-4d1d-9607-c5b95a536a6a",
+            "priority": 70.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.blackbox.ai.png"
+        },
+        {
+            "name": "주식 투자자들에게 한가지 부탁은..",
+            "url": "https://www.youtube.com/watch?v=C9Sb83UwHh8",
+            "hotkey": "",
+            "category": "Youtube",
+            "id": "5ff791a6-f406-499b-9dd1-823fa14b3e48",
+            "priority": 71.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.youtube.com.png"
+        },
+        {
+            "name": "slideAI - PopAi",
+            "url": "https://www.popai.pro/ko",
+            "hotkey": "",
+            "category": "Util",
+            "id": "50c45986-4f2b-49f0-ae63-baee23f0d5f1",
+            "priority": 72.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.popai.pro.svg"
+        },
+        {
+            "name": "slideAi  - skyworkAI",
+            "url": "https://skywork.ai/?skill_id=102&title=-1",
+            "hotkey": "",
+            "category": "Util",
+            "id": "b72617d0-37fc-4f7c-86f5-597cd2f71311",
+            "priority": 73.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\skywork.ai.png"
+        },
+        {
+            "name": "Promise with myself",
+            "url": "https://www.youtube.com/shorts/BP6zhHXbmQs",
+            "hotkey": "",
+            "category": "Youtube",
+            "id": "b1caf256-79fe-4fa3-97d0-8abeb2413b61",
+            "priority": 74.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.youtube.com.png"
+        },
+        {
+            "name": "드라이브(강원_워크스페이스)",
+            "url": "https://drive.google.com/drive/u/1/folders/1ufWHHHETtqITKk6LqdJQnNDWAbEWii3q",
+            "hotkey": "",
+            "category": "General",
+            "id": "d0372602-4e8b-47c2-840d-180b51016a81",
+            "priority": 75.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\drive.google.com.png"
+        },
+        {
+            "name": "TextToSpeech (TTS)",
+            "url": "https://www.naturalreaders.com/online/",
+            "hotkey": "",
+            "category": "Util",
+            "id": "3bb25b25-a906-4392-88f3-d211c1e5e732",
+            "priority": 76.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.naturalreaders.com.png"
+        },
+        {
+            "name": "FreeIcon",
+            "url": "https://icons8.com/icons/set/ctrl",
+            "hotkey": "",
+            "category": "General",
+            "id": "3813409a-db59-4086-89dd-f18796173b36",
+            "priority": 77.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\icons8.com.png"
+        },
+        {
+            "name": "BGRemover",
+            "url": "https://www.photoroom.com/ko/tools/background-remover",
+            "hotkey": "",
+            "category": "Util",
+            "id": "b74526e2-b816-4659-ae87-135e9273488e",
+            "priority": 78.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.photoroom.com.png"
+        },
+        {
+            "name": "ClovaDub",
+            "url": "https://clovadubbing.naver.com/mypage",
+            "hotkey": "",
+            "category": "Util",
+            "id": "7b58939c-8937-47b5-ab68-177790bc39d6",
+            "priority": 79.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\clovadubbing.naver.com.png"
+        },
+        {
+            "name": "목차 시트",
+            "url": "https://docs.google.com/spreadsheets/d/1adxwqwEf_To_ggTHU4mj1FWZlI5rXjkC5oIyzHvGl7Q/edit?gid=0#gid=0",
+            "hotkey": "",
+            "category": "General",
+            "id": "06bffb17-0fbc-4cea-a052-0b9ba02a2b68",
+            "priority": 80.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\docs.google.com.png"
+        },
+        {
+            "name": "대본 추출",
+            "url": "https://turboscribe.ai/",
+            "hotkey": "",
+            "category": "Util",
+            "id": "6e344ac5-f17e-49cc-9549-007d471a7734",
+            "priority": 81.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\turboscribe.ai.png"
+        }
+    ],
+    "global_show_window_hotkey": "ctrl+f2"
+}
