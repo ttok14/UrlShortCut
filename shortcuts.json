@@ -8,7 +8,8 @@
         "Mine",
         "PySide6",
         "Education",
-        "Temp"
+        "Temp",
+        "Resource"
     ],
     "shortcuts": [
         {
@@ -707,6 +708,87 @@
             "id": "b72617d0-37fc-4f7c-86f5-597cd2f71311",
             "priority": 73.0,
             "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\skywork.ai.png"
+        },
+        {
+            "name": "Promise with myself",
+            "url": "https://www.youtube.com/shorts/BP6zhHXbmQs",
+            "hotkey": "",
+            "category": "Youtube",
+            "id": "b1caf256-79fe-4fa3-97d0-8abeb2413b61",
+            "priority": 74.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.youtube.com.png"
+        },
+        {
+            "name": "드라이브(강원_워크스페이스)",
+            "url": "https://drive.google.com/drive/u/1/folders/1ufWHHHETtqITKk6LqdJQnNDWAbEWii3q",
+            "hotkey": "",
+            "category": "General",
+            "id": "d0372602-4e8b-47c2-840d-180b51016a81",
+            "priority": 75.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\drive.google.com.png"
+        },
+        {
+            "name": "TextToSpeech (TTS)",
+            "url": "https://www.naturalreaders.com/online/",
+            "hotkey": "",
+            "category": "Util",
+            "id": "3bb25b25-a906-4392-88f3-d211c1e5e732",
+            "priority": 76.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.naturalreaders.com.png"
+        },
+        {
+            "name": "FreeIcon",
+            "url": "https://icons8.com/icons/set/ctrl",
+            "hotkey": "",
+            "category": "General",
+            "id": "3813409a-db59-4086-89dd-f18796173b36",
+            "priority": 77.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\icons8.com.png"
+        },
+        {
+            "name": "BGRemover",
+            "url": "https://www.photoroom.com/ko/tools/background-remover",
+            "hotkey": "",
+            "category": "Util",
+            "id": "b74526e2-b816-4659-ae87-135e9273488e",
+            "priority": 78.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\www.photoroom.com.png"
+        },
+        {
+            "name": "ClovaDub",
+            "url": "https://clovadubbing.naver.com/mypage",
+            "hotkey": "",
+            "category": "Util",
+            "id": "7b58939c-8937-47b5-ab68-177790bc39d6",
+            "priority": 79.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\clovadubbing.naver.com.png"
+        },
+        {
+            "name": "목차 시트",
+            "url": "https://docs.google.com/spreadsheets/d/1adxwqwEf_To_ggTHU4mj1FWZlI5rXjkC5oIyzHvGl7Q/edit?gid=0#gid=0",
+            "hotkey": "",
+            "category": "General",
+            "id": "06bffb17-0fbc-4cea-a052-0b9ba02a2b68",
+            "priority": 80.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\docs.google.com.png"
+        },
+        {
+            "name": "대본 추출",
+            "url": "https://turboscribe.ai/",
+            "hotkey": "",
+            "category": "Util",
+            "id": "6e344ac5-f17e-49cc-9549-007d471a7734",
+            "priority": 81.0,
+            "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\turboscribe.ai.png"
+        },
+        {
+            "name": "아이콘_프리_다운로드",
+            "url": "https://icon-icons.com/",
+            "hotkey": "",
+            "category": "Resource",
+            "id": "c17b7f49-8d9b-41ec-9a1e-2f80799356dd",
+            "priority": 82.0,
+            "icon_path": "D:\\Projects\\Python\\UrlShortcut\\favicons\\icon-icons.com.png"
         }
     ],
     "global_show_window_hotkey": "ctrl+f2"
