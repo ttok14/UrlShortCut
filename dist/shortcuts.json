@@ -8,7 +8,8 @@
         "Mine",
         "PySide6",
         "Education",
-        "Temp"
+        "Temp",
+        "Resource"
     ],
     "shortcuts": [
         {
@@ -779,6 +780,15 @@
             "id": "6e344ac5-f17e-49cc-9549-007d471a7734",
             "priority": 81.0,
             "icon_path": "C:\\Users\\LeeYunSeon\\AppData\\Roaming\\ShortCutGroup\\favicons\\turboscribe.ai.png"
+        },
+        {
+            "name": "아이콘_프리_다운로드",
+            "url": "https://icon-icons.com/",
+            "hotkey": "",
+            "category": "Resource",
+            "id": "c17b7f49-8d9b-41ec-9a1e-2f80799356dd",
+            "priority": 82.0,
+            "icon_path": "D:\\Projects\\Python\\UrlShortcut\\favicons\\icon-icons.com.png"
         }
     ],
     "global_show_window_hotkey": "ctrl+f2"
